@@ -34,6 +34,7 @@ Full-Range Liver Fat Fraction Estimation in Magnitude MRI Using a Signal Shape D
 
 **Journal**: CONCEPTS IN MAGNETIC RESONANCE PART A
 
+[Paper](https://www.hindawi.com/journals/cmra/2019/3439468/)
 
 2017
 ==============
