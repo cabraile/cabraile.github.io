@@ -36,6 +36,18 @@ Full-Range Liver Fat Fraction Estimation in Magnitude MRI Using a Signal Shape D
 
 [Paper](https://www.hindawi.com/journals/cmra/2019/3439468/)
 
+2018
+==============
+
+Feature extraction from 3D point clouds
+--------------
+**Authors**: André Przewodowski; Fernando Osório.
+
+**Conference**: IV Workshop on MSc Dissertation and PhD Thesis in Robotics - WTDR.
+
+[Paper](https://onedrive.live.com/?authkey=%21AJ3kn0D1gZXvxWc&cid=5B85CBD24DB3437D&id=5B85CBD24DB3437D%2178845&parId=5B85CBD24DB3437D%2178842&o=OneUp),
+[Code](https://github.com/cabraile/The-Reference-Points-Histograms-Shape-Descritpor)
+
 2017
 ==============
 
