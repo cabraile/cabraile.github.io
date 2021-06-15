@@ -6,6 +6,10 @@ permalink: /publications
 
 2021
 ==============
+
+A Gaussian approximation of the posterior for digital map-based localization using a particle filter
+--------------
+
 **Authors**: André Przewodowski; Fernando Santos Osório.
 
 **Conference**: 2021 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)
