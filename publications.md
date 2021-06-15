@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications
 ---
 
+2021
+==============
+**Authors**: André Przewodowski; Fernando Santos Osório.
+
+**Conference**: 2021 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)
+
+Paper
+[Code](https://github.com/cabraile/DMLAV)
+
 2020
 ==============
 
